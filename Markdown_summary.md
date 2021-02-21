@@ -3,10 +3,14 @@
 The main aim of this language is to represent repo, we should know that's its not a programming language it'a just another way to communicate between github and html code 
 
 **Markdown cheat_sheet**
-1. headers 
-"* #" >>>>> H1 
-"* ##" >>>> h2 
-"* ###" >>>>h3 
+1. # **headers** 
+
+
+" #" >>>>> H1 
+
+" ##" >>>> h2
+
+" ###" >>>>h3 
 .
 
 .
@@ -15,7 +19,7 @@ The main aim of this language is to represent repo, we should know that's its no
 
 ETC 
 
-2. lists 
+2. # **lists** 
 
   * orderd list : 
 
@@ -25,11 +29,11 @@ using numbers
 
 using astriks (*)
 
-3. provide links : 
+3. # **provide links** : 
 
 square brackets [] write in them the name of link then parentheses ( ) write in them the url of link 
 
-4. provide pictures : 
+4. # **provide pictures** : 
 
 square brackets [] write in them the title of pic  then parentheses ( ) write in them the url of pic  
 
