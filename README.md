@@ -12,4 +12,6 @@ As soon as I finished my university education,I started my hard journey in looki
 I always thought that what matters was  the number of courses attended  then I realised that what matters was the concentration and hard work in one field; that has changed my perception of intelligence;I began to realise that people are not born intelligent but it's rather the challenges and difficulties they face.
 I may have not completely changed but it's my view of things 
 My beliefs have changed from I surrender to I shall try once again and form this is very difficult to no pain no gain
+
+
 ![No pain No gain](https://www.imageconscious.com/wp-content/uploads/2017/10/IN32147.jpg)
