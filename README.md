@@ -21,10 +21,10 @@ My beliefs have changed from I surrender to I shall try once again and form this
 **This table contain the content of my Github page**
 
 | Title | git webpage |
-| Acp   |( Acp ) [https://banaswaqqad.github.io/reading-notes/Acp] |
-| git   | (git)  [https://banaswaqqad.github.io/reading-notes/git] |
-|Git hub | (github)  [https://banaswaqqad.github.io/reading-notes/github]  |
-| mark down |(markdown)  [https://banaswaqqad.github.io/reading-notes/markdown] |
-| Mindset | (mindset) [https://banaswaqqad.github.io/reading-notes/mindset] | 
+| Acp   |[Acp] (https://banaswaqqad.github.io/reading-notes/Acp) |
+| git   | [git] (https://banaswaqqad.github.io/reading-notes/git) |
+|Git hub | [github] (https://banaswaqqad.github.io/reading-notes/github)  |
+| mark down |[markdown] (https://banaswaqqad.github.io/reading-notes/markdown) |
+| Mindset | [mindset] (https://banaswaqqad.github.io/reading-notes/mindset) | 
 
 
