@@ -15,3 +15,16 @@ My beliefs have changed from I surrender to I shall try once again and form this
 
 
 ![No pain No gain](https://www.imageconscious.com/wp-content/uploads/2017/10/IN32147.jpg)
+
+
+
+**This table contain the content of my Github page**
+
+| Title |short brief |
+| Acp   |add,commit,push |
+| git   |it's a vesrsion control system |
+|Git hub | accessing your data from every where |
+| mark down | 'Markdown'is a way to write content for the web |
+| Mindset | two types; fixed and growth | 
+
+
