@@ -20,11 +20,11 @@ My beliefs have changed from I surrender to I shall try once again and form this
 
 **This table contain the content of my Github page**
 
-| Title |short brief |
-| Acp   |add,commit,push |
-| git   |it's a vesrsion control system |
-|Git hub | accessing your data from every where |
-| mark down | 'Markdown'is a way to write content for the web |
-| Mindset | two types; fixed and growth | 
+| Title | git webpage |
+| Acp   |https://banaswaqqad.github.io/reading-notes/Acp |
+| git   |https://banaswaqqad.github.io/reading-notes/git |
+|Git hub | https://banaswaqqad.github.io/reading-notes/github  |
+| mark down | https://banaswaqqad.github.io/reading-notes/markdown |
+| Mindset | https://banaswaqqad.github.io/reading-notes/mindset | 
 
 
