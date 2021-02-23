@@ -297,4 +297,262 @@ still be used*
 Block-Level Elements <a> 
  This element  allows the user to turn an entire block
 into a link.
+ 
+ **# Process & Design ** 
+ 
+ **Who is the Site For?**
+ every website should be build for targeted visitors
+ thier are two types of visitors : 
+ 
+ * individuals 
+you should focus on : 
+1. age range 
+2. appeal to more women or men
+3. country do visitors live in
+4. average income of visitors
+5. How often do they use the web?
+6. the level of education do they have 
+
+
+* Companies
+
+ you should focus on : 
+
+1. size of the company
+2.  the position of people in the company who visit your site and how larg the budget they control
+
+
+**# Why People Visit
+YOUR Website** 
+
+aftre you know who your visitors are, you
+should consider why they are coming. While
+some people will simply chance across your
+website, most will visit for a specific reason
+
+**the content and design should
+be deal with the goals and intrests  of
+your users** 
+
+To help determine why people
+are coming to your website,
+there are two basic categories of
+questions you can ask:
+1.  The first attempts to discover
+the underlying motivations for
+why visitors come to the site.
+2.  The second examines the
+specific goals of the visitors.
+These are the triggers making
+them come to the site now.
+
+**# What Your Visitors are
+Trying to Achieve**
+
+to know that you should 
+create a list
+of reasons why people would
+be coming to your site. You can
+then assign the list of tasks to
+the fictional visitors you created
+in the step described on the
+previous page
+
+**# What Information
+Your Visitors Need**
+
+**Key Information**
+
+* Will visitors be familiar with
+your subject area / brand
+or do you need to introduce
+yourself?
+* Will they be familiar with
+the product / service /
+information you are covering
+or do they need background
+information on it?
+* What are the most important
+features of what you are
+offering?
+* What is special about what
+you offer that differentiates
+you from other sites that offer
+something similar?
+* Once people have achieved
+the goal that sent them to
+your site, are there common
+questions people ask about
+this subject area
+
+**# Site Maps**
+
+*starting to organize the
+information into sections or pages that will be used
+to structure the site..*
+
+**card sorting technique:** can help you to decide what
+information should go on each
+page
+
+This involves placing each
+piece of information that a
+visitor might need to know on
+a separate piece of paper and
+then organizing the related
+information into groups.
+
+Each group relates to a page and,
+on larger sites the, pages can in
+turn can be grouped together to
+create different sections of the
+website.
+
+The groups of information are
+then turned into the diagram
+that is known as the site map.
+Sometimes it can be helpful to
+ask people who are the target
+audience to help you group
+related information together.
+
+A site map will usually
+begin with the homepage.
+Additionally, if the site is **large
+and is compartmentalized
+into sections, each section
+might require its own section
+homepage to link to all of the
+information within it.
+
+**# WireFrames** 
+sketch of the key
+information that needs to go on each page of a
+site. It shows the hierarchy of the information
+and how much space it might require.
+
+**the Importance of wireframes**
+
+1. By creating a wireframe you can
+ensure that all of the information
+that needs to be on a page is
+included.
+
+2. The wireframes make design
+easier because you know what
+information needs to appear on
+which page before considering
+how the the page should look
+
+**#Getting your message
+across using design** 
+
+With so much on the page, the
+designer needs to **organize** and
+**prioritize** the information to
+communicate their message
+and help users find what they're
+looking for.
+
+**1. organizing**
+
+
+
+ Grouping together related
+content into blocks or chunks
+makes the page look simpler
+(and easier to understand).
+Users should be able to
+identify the purpose of each
+block without processing each
+individual item.
+By presenting certain types of
+information in a similar visual
+style (such as using the same
+style for all buttons or all links),
+users will learn to associate that
+style with a particular type of
+content
+
+**#2. Prioritizing**
+
+f everything on a page appeared
+in the same style, it would be
+much harder to understand. (Key
+messages would not stand out.)
+By making parts of the page
+look distinct from surrounding
+content, designers draw
+attention to (or away from)
+those items.
+Designers create something
+known as a visual hierarchy
+to help users focus on the key
+messages that will draw people's
+attention, and then guide them
+to subsequent messages.
+
+**explain how
+design can be used to effectively
+communicate the services of a
+company**
+
+1. visual hierarchy
+
+You can use contrast to create a visual hierarchy that gets
+across your key message and helps users find what they are looking for :
+
+* Size 
+* Color
+* Style
+
+2. grouping and Similarity
+
+ Grouping related pieces of information together can make a
+design easier to comprehend. Here are some ways this can be achieved: 
+
+* Proximity:
+ several items are
+placed close together, they are
+perceived as more related than
+items that are placed further
+apart
+
+* Closure : faced with a complicated
+arrangement of items, we
+will often look for a single or
+recognisable pattern or form.
+A real or imaginary box can be
+formed around elements due to
+their proximity and alignment.
+
+* Continuance : elements are placed in
+a line or a curve then they are
+perceived to be more related
+than those that are not following
+the same direction. This can be
+used to direct a reader from one
+part of a page to the next.
+
+* White Space :
+Placing related items closer
+together and leaving a bigger
+gap between unrelated items.
+
+* color :
+A background color placed
+behind related items to
+emphasize their connection.
+
+* Borders :
+
+ A line can be drawn around the
+border of the group or between it
+and its neighbors.
+
+![grouping and Similarity]("https://1.bp.blogspot.com/-vi1__2L_J4M/XLdeGwtGAdI/AAAAAAAAAKA/WYp6FMi1KV06WTH-a7nWKnNO78p6L-6bwCEwYBhgL/s1600/Gestalt%2BTheory.jpg")
+
+
+
+
 
