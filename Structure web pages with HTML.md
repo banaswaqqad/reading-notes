@@ -180,12 +180,13 @@ the width of the iframe in pixels.
 
 
 **# HTML5 Layout**
-1. Headers 
-<header>
 
-2. Footers
- <footer>
 
+**HTML5** introduces a new set of elements that allow you to divide up the
+parts of a page
+
+1. Headers  <header> & Footers  <footer>
+ 
 *it can be used for*
 
 * The main header or footer
@@ -196,7 +197,104 @@ site.
 individual <article> or
 <section> within the page
 
+2. Navigation < nav> 
 
+it's used to
+contain the major navigational
+blocks on the site such as the
+primary site navigation.
 
+3. Articles <article> 
 
+it's acts as
+a *container* for any section of a
+page that could stand alone and
+potentially be syndicated.
+This could be an individual
+article or blog entry, a comment
+or forum post, or any other
+independent piece of content.
+If a page contains several articles
+(or even summaries of several
+articles), then each individual
+article would live inside its own
+<article> element.
+The <article> elements can
+even be nested inside each
+other. For example, a blog post
+might live inside one <article>
+element and each comment on
+the article could live inside its
+own child <article> element
+
+3. Asides <aside>
+this element has two
+purposes, depending on whether
+it is inside an <article>
+element or not.
+ 
+* When the <aside> element
+is used *inside* an <article>
+element, it should contain
+information that is related to the
+article but not essential to its
+overall meaning. .
+ 
+* When the <aside> element is
+used *outside* of an <article>
+element, it acts as a container
+for content that is related to
+the entire page. 
+ 
+4. Sections  <section>
+this element groups
+related content together, and
+ each section would
+have its own heading.
+ 
+*Because the <section> element
+groups related items together,
+it may contain several distinct
+<article> elements that have a
+common theme or purpose* 
+ 
+5. Heading  groups  <hgroup> 
+
+The purpose of this element is to group together a
+set of one or more <h1> through
+<h6> elements so that they are
+act as one single heading
+
+6. Figures  <figure> <figcaption>
+ 
+ it should only be
+used when the content simply
+references the element (and not
+for something that is absolutely
+integral to the flow of a page).
+
+The <figure> element should
+also contain a <figcaption>
+element which provides a text
+decription for the content of
+the <figure> element. In
+this example, you can see a
+<figure> has been added inside
+the <article> element.
+
+7. Sectioning ELEMENTS <div> 
+
+the <div> element
+A way to
+group together related elements
+
+*Where there is no suitable
+element to group a set of
+elements, the <div> element will
+still be used*
+ 
+ Linking Around
+Block-Level Elements <a> 
+ This element  allows the user to turn an entire block
+into a link.
 
