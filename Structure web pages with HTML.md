@@ -550,7 +550,79 @@ emphasize their connection.
 border of the group or between it
 and its neighbors.
 
-![grouping and Similarity]("https://1.bp.blogspot.com/-vi1__2L_J4M/XLdeGwtGAdI/AAAAAAAAAKA/WYp6FMi1KV06WTH-a7nWKnNO78p6L-6bwCEwYBhgL/s1600/Gestalt%2BTheory.jpg")
+!(grouping and Similarity)[https://1.bp.blogspot.com/-vi1__2L_J4M/XLdeGwtGAdI/AAAAAAAAAKA/WYp6FMi1KV06WTH-a7nWKnNO78p6L-6bwCEwYBhgL/s1600/Gestalt%2BTheory.jpg"]
+
+**# Designing Navigation** 
+
+Site navigation:  helps people: 
+
+1. find where they want to go 
+2. understand what your site is about and how it is organized
+
+Good navigation tends to follow these principles...
+
+* Concise: 
+
+ the navigation should
+be quick and easy to read. 
+
+* Clear : 
+
+Users should be able to predict
+the kind of information that
+they will find on the page
+before clicking on the link
+
+* Selective
+The primary navigation should
+only reflect the sections or
+content of the site ,exapmle : login and search 
+A large site may have primary,
+secondary and even tertiary
+navigation. Primary navigation
+often appears across the top
+of the site from left to right, or
+down the left hand side of the
+page. Secondary navigation
+could be under the primary
+navigation or down the side of
+the page. Tertiary navigation
+often sits in the footer of the
+page. The menu will not be the
+only way users navigate the site.
+They will also use links within
+each page. Some sites also offer
+a search function
+
+* Context : 
+
+lets the user know
+where they are in the website at
+that moment. Using a different
+color or some kind of visual
+marker to indicate the current
+page is a good way to do this.
+
+* Interactive : 
+
+Each link should be big enough
+to click on and the appearance
+of the link should change when
+the user hovers over each item
+or clicks on it. It should also
+be visually distinct from other
+content on the page.
+
+* Consistent : 
+
+
+The more pages a site contains,
+the larger the number of
+navigation items there will be.
+Although secondary navigation
+will change from page to page,
+it is best to keep the primary
+navigation exactly the same.
 
 
 
