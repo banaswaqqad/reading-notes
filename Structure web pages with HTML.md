@@ -15,9 +15,10 @@ Although HTML 4 had some
 presentational elements to
 control the appearance of pages
 Examples
-* include the <center> element
+* include the <center>element
 for centering content on a
 page
+ 
 * <font> for controlling
 the appearance of text
 
@@ -176,6 +177,25 @@ the height of the iframe in pixels.
 3. width
 The width attribute specifies
 the width of the iframe in pixels.
+
+
+**# HTML5 Layout**
+1. Headers 
+<header>
+
+2. Footers
+ <footer>
+
+*it can be used for*
+
+* The main header or footer
+that appears at the top or
+bottom of every page on the
+site.
+*  A header or footer for an
+individual <article> or
+<section> within the page
+
 
 
 
