@@ -8,8 +8,9 @@ an element should appear
 
 * Block level elements look
 like they start on a new line.
-Examples include the <h1>-
-<h6>, <p> and <div> elements.
+Examples 
+
+ **include the <h1>-<h6>, <p> and <div> elements**
 
 * Inline elements flow within the
 text and do not start on a new
